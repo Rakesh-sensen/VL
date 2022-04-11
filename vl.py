@@ -18,7 +18,7 @@ with col2:
 with col1:
     pass
 with  col3:
-     i=Image.open('ro.jpeg')
+     i=Image.open('r.jpeg')
      st.set_option('deprecation.showPyplotGlobalUse', False)                          #image projection
      st.image(i,use_column_width=None)
 
