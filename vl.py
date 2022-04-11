@@ -22,3 +22,4 @@ with  col3:
      st.set_option('deprecation.showPyplotGlobalUse', False)                          #image projection
      st.image(i,use_column_width=None)
 
+search = st.sidebar()
