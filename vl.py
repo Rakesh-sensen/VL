@@ -14,7 +14,7 @@ from PIL import Image
 
 col1,col2,col3=st.columns([4,5,3])
 with col2:
-     st.title('''VERTICAL LAUNCH''')
+     st.title('''VL LAUNCH''')
 with col1:
     pass
 with  col3:
